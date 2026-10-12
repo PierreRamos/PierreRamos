@@ -13,7 +13,7 @@ feature from code to finished visuals.
 ### 🛠️ Personal projects
 | Project | What it is | Play |
 |---|---|---|
-| [Pixel Punch](https://github.com/PierreRamos/Prototype_PunchGame) | Fast, *One Finger Death Punch*-style brawler. Solo: code and art | [itch.io](https://pierrymarbles.itch.io/punch-game) |
+| [Pixel Punch](https://github.com/PierreRamos/PixelPunch) | Fast, *One Finger Death Punch*-style brawler. Solo: code and art | [itch.io](https://pierrymarbles.itch.io/punch-game) |
 | [Reprise](https://github.com/PierreRamos/Reprise) | *Sekiro*-inspired counter combat, with guns | [itch.io](https://pierrymarbles.itch.io/reprise) |
 | [Smoothie Splash](https://pierrymarbles.itch.io/smoothie-splash-fruit-merger) | GMTK Game Jam 2023: *Fruit Ninja*, roles reversed | [Browser](https://pierrymarbles.itch.io/smoothie-splash-fruit-merger) |
 
